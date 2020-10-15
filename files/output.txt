@@ -1,0 +1,6 @@
+SUB FOLDER Name: Similar output gets 75
+input file  == home/os2020/io/input.txt/
+SUB FOLDER Name: Exellent gets 100
+input file  == home/os2020/io/input.txt/
+SUB FOLDER Name: TIMEOUT gets 20
+input file  == home/os2020/io/input.txt/
